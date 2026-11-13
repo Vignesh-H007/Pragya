@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix LearnBuddy Faculty Analytics Dashboard",
+  "description": "Faculty and teacher analytics dashboard to track class pass rates, active learning gaps, the #1 hardest topics, and student remediation status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
